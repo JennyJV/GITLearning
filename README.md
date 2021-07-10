@@ -1,2 +1,2 @@
 # GITLearning
-This is my first GIT repository to explore
+Repository to explore GIT
